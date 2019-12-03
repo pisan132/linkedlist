@@ -6,7 +6,7 @@ using namespace std;
 
 
 void testAddBeginning() {
-  List mylist;
+  List mylist;;
   mylist.addtoBeginning(10);
   mylist.addtoBeginning(45);
   mylist.addtoBeginning(5);
